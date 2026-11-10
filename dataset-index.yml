@@ -1526,3 +1526,9 @@
     paper: ''
     configpath: ''
     configpath_llmjudge: opencompass/configs/datasets/weddoo_bench/weddoo_bench_llmjudge_gen.py
+- autologi:
+    name: AutoLogi
+    category: Reasoning
+    paper: https://arxiv.org/abs/2502.16906
+    configpath: opencompass/configs/datasets/autologi/autologi_gen.py
+    configpath_llmjudge: ''

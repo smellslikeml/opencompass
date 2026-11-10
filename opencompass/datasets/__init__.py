@@ -10,6 +10,7 @@ from .aime2024 import *  # noqa: F401, F403
 from .anli import AnliDataset  # noqa: F401, F403
 from .anthropics_evals import *  # noqa: F401, F403
 from .apps import *  # noqa: F401, F403
+from .autologi import *  # noqa: F401, F403
 from .arc import *  # noqa: F401, F403
 from .arc_prize_public_evaluation import *  # noqa: F401, F403
 from .arxivrollbench import *  # noqa: F401, F403

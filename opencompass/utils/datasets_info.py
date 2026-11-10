@@ -9,6 +9,11 @@ DATASETS_MAPPING = {
         "hf_id": None,
         "local": "./data/lgbench150_data",
     },
+    "opencompass/autologi": {
+        "ms_id": None,
+        "hf_id": "qzhu/AutoLogi",
+        "local": "./data/autologi",
+    },
     "opencompass/AA-LCR":{
         "ms_id": None,
         "hf_id": None,
